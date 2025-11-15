@@ -9,5 +9,3 @@ Follow these steps to run the Facebook Sentiment Analysis project locally:
 ```bash
 python -m venv .venv
 .\.venv\Scripts\Activate.ps1   # For Windows PowerShell
-//pip install 
-//pip install
